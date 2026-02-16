@@ -10,7 +10,11 @@
 
 ###
 
-<p align="left">✨ Creating bugs since high school<br>📚 I'm currently learning at IMC<br>🎯 Goals: Learn, break, fix, repeat<br></p>
+<p align="left">
+Started programming in high school<br>
+Currently studying Informatics at IMC<br>
+Focused on continuous learning and improvement
+</p>
 
 ###
 
